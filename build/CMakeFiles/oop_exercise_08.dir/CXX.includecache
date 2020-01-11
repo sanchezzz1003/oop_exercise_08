@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexander/Рабочий стол/OOP/ex_08/factory.h
+figures.h
+/home/alexander/Рабочий стол/OOP/ex_08/figures.h
+
+/home/alexander/Рабочий стол/OOP/ex_08/figures.h
+iostream
+-
+fstream
+-
+utility
+-
+memory
+-
+cmath
+-
+stdexcept
+-
+
+/home/alexander/Рабочий стол/OOP/ex_08/main.cpp
+condition_variable
+-
+fstream
+-
+iostream
+-
+memory
+-
+mutex
+-
+string
+-
+vector
+-
+thread
+-
+cstdlib
+-
+factory.h
+/home/alexander/Рабочий стол/OOP/ex_08/factory.h
+figures.h
+/home/alexander/Рабочий стол/OOP/ex_08/figures.h
+subscriber.h
+/home/alexander/Рабочий стол/OOP/ex_08/subscriber.h
+
+/home/alexander/Рабочий стол/OOP/ex_08/subscriber.h
+string
+-
+
